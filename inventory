@@ -1,0 +1,7 @@
+[local]
+172.16.1.243
+[all:vars]
+ansible_connection='ssh'
+ansible_port='port'
+ansible_user='user'
+ansible_ssh_private_key_file='private_key'
