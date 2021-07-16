@@ -1,0 +1,6 @@
+---
+app_user: "user"
+http_host: "domain.com"
+http_conf: "domain_com.conf"
+http_port: "80"
+disable_default: true
